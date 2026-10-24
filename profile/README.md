@@ -5,8 +5,8 @@
 <p align="center">📏 Shared rules · 🔍 Public code · 🔁 Reproducible results</p>
 
 <p align="center">
-<a href="https://motion-challenge-project.github.io/motion-challenge-project/">🌐 Website</a> ·
-<a href="https://motion-challenge-project.github.io/motion-challenge-project/leaderboard/">🏆 Leaderboard</a> ·
+<a href="https://motionchallenge-project.github.io/motion-challenge-project/">🌐 Website</a> ·
+<a href="https://motionchallenge-project.github.io/motion-challenge-project/leaderboard/">🏆 Leaderboard</a> ·
 <a href="https://github.com/MotionChallenge-Project/MotionChallenge-Core">⚙️ Evaluation core</a> ·
-<a href="https://motion-challenge-project.github.io/motion-challenge-project/models/">🤖 Models</a>
+<a href="https://motionchallenge-project.github.io/motion-challenge-project/models/">🤖 Models</a>
 </p>
